@@ -1,0 +1,5 @@
+Save Format v3.0(19990112)
+appname "customer_support";
+applib "helpdesk\\csrcntlm.pbl";
+liblist "helpdesk\\csrcntlm.pbl;helpdesk\\stcdstd.pbl;helpdesk\\stcsr1.pbl;helpdesk\\stcsr2.pbl;helpdesk\\stcsract.pbl;helpdesk\\stcsrissues.pbl;helpdesk\\stcsrps.pbl;helpdesk\\stcsrsrc.pbl;helpdesk\\stcsrwiz.pbl;helpdesk\\stcustobj.pbl;helpdesk\\stentcon.pbl;helpdesk\\stfunc.pbl;helpdesk\\stlogin1.pbl;helpdesk\\stlogin2.pbl;helpdesk\\stmail1.pbl;helpdesk\\stmaint1.pbl;helpdesk\\stmaint2.pbl;helpdesk\\stmaint3.pbl;helpdesk\\stmaint4.pbl;helpdesk\\stmisc.pbl;helpdesk\\stmntddd.pbl;helpdesk\\stpipe.pbl;helpdesk\\stproj.pbl;helpdesk\\stpsdirs.pbl;helpdesk\\stpsobj.pbl;helpdesk\\strpt1.pbl;helpdesk\\strpt2.pbl;helpdesk\\strtfrte.pbl;helpdesk\\strule.pbl;helpdesk\\stswat1.pbl;helpdesk\\stswat2.pbl;helpdesk\\stsupcon.pbl;helpdesk\\stupgrd.pbl;common\\shrcsr.pbl;common\\shrcsrnv.pbl;common\\shrcsrst.pbl;common\\shrfunc.pbl;common\\shrmail1.pbl;common\\shrmisc.pbl;common\\shrpsdb.pbl;common\\shrresrc.pbl;common\\shrrule.pbl;common\\shrswat1.pbl;";
+type "pb";
